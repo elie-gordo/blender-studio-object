@@ -7,3 +7,8 @@ Thumbs.db
 *.blend1
 *.blend2
 blender/cache/
+
+# render intermediates
+renders/anim_frames/
+web/*_raw.glb
+web/*_draco.glb
