@@ -12,3 +12,5 @@ blender/cache/
 renders/anim_frames/
 web/*_raw.glb
 web/*_draco.glb
+__pycache__/
+*.pyc
